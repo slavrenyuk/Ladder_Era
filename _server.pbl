@@ -3,7 +3,7 @@ icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNS
 author="Cackfiend"
 email="svlavrenyuk@gmail.com"
 type="era"
-version="0.1.0"
+version="0.1.1"
 
 description=_"Balanced version of the Default Era for competitive play. Needs play testing to verify the balance changes. May be used only with approved maps. Adds modified versions of Den of Onis, Hamlets, Silverhead Crossing and The Freelands maps. Provides a map picker for selecting random map from a pool of approved maps.
 Changes comparing to the Default Era:
@@ -14,7 +14,7 @@ Leaders
 Drakes
 - Drake Fighter: 30% defense in shallow water
 Knalgan Alliance
-- Dwarves have 3 traits, hardy trait (poison damage 6 HP) is mandatory, healthy trait is removed.
+- Dwarves have 3 traits, hardy trait (rest heal if poisoned) is mandatory, healthy trait is removed.
 - Dwarvish Ulfserker: -20% arcane resistance
 - Poacher: can have dextrous trait
 - Footpad: melee blade 5-2

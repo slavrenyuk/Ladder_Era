@@ -1,0 +1,30 @@
+Version 0.1.1
+- Added feature to the map pickers to configure the pool of maps
+
+Version 0.1.0
+- Added modified versions of Den of Onis, Hamlets, Silverhead Crossing and The Freelands maps.
+- Created map pickers for selecting random map from a pool of approved maps.
+- Implemented Ladder Era with the next changes comparing to the Default Era:
+    -- Leaders
+        --- Leaders with 6 movement points receive slow trait (similar to how 4 mp leaders receive quick trait, which is inherited from the Default Era)
+        --- Red Mage, White Mage and Trapper removed from the leaders pool
+        --- Removed leaders from the manual selection pool that are not present in the random selection pool
+    -- Drakes
+        --- Drake Fighter: 30% defense in shallow water
+    -- Knalgan Alliance
+        --- Dwarves have 3 traits, hardy trait (rest heal if poisoned) is mandatory, healthy trait is removed.
+        --- Dwarvish Ulfserker: -20% arcane resistance
+        --- Poacher: can have dextrous trait
+        --- Footpad: melee blade 5-2
+    -- Loyalists
+        --- Spearman: ranged attack 5-1
+        --- Cavalryman: 7 movement points
+    -- Northerners
+        --- Orcish Archer: ranged pierce attack 5-3
+    -- Rebels
+        --- Elvish Shaman: no dextrous trait
+        --- Wose: 0% cold resistance
+        --- Merman Hunter: +2 hitpoints and 60% defense in deep water
+    -- Undead
+        --- Vampire bat: no intelligent trait
+        --- Ghost: 19 gold
