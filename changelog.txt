@@ -1,3 +1,7 @@
+Version 0.1.2
+- Allowed 2v2 maps to be played with the Ladder Era
+- Prevent map pickers to load if less than 2 maps are present in the map pool
+
 Version 0.1.1
 - Added feature to the map pickers to configure the pool of maps
 
