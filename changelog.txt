@@ -1,3 +1,6 @@
+Version 0.1.6
+- Fixed map picker Hornshark Island bug reported by Maboul. Units on the map should depend on player's faction.
+
 Version 0.1.5
 - Removed Elvish Sorceress from the leaders pool
 - Removed Hornshark Island from the classic map pool
