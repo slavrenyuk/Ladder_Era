@@ -1,3 +1,6 @@
+Version 0.1.7
+- Reverted Dwarvish Ulfserker and Berserker arcane resistance back to 10% as in the Default Era.
+
 Version 0.1.6
 - Fixed map picker Hornshark Island bug reported by Maboul. Units on the map should depend on player's faction.
 
