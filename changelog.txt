@@ -1,3 +1,15 @@
+Version 0.1.8
+- Pikeman and Rogue removed from leader pools
+- Removed dextrous trait from Poacher
+- Dwarvish Ulfserker cost from 19 to 20
+- Dwarvish Thunderer cost from 17 to 16
+- Dwarvish Guardsman ranged attack from 5-1 to 6-1
+- Dwarvish Steelclad hitpoints from 59 to 57
+- Bowman melee attack from 4-2 to 5-2
+- Skeleton Archer cost from 14 to 15
+- Cavalry reverted movement from 7 to 8, cost changed from 17 to 18 gold
+- Footpad sprite update
+
 Version 0.1.7
 - Reverted Dwarvish Ulfserker and Berserker arcane resistance back to 10% as in the Default Era.
 

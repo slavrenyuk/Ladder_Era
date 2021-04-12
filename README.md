@@ -23,16 +23,22 @@ from (see `map_pickers/scenarios/` folder). The pool of scenarios is basically a
 - explicitly specified settings `allow_new_game=no` (don't list the scenario for a new game creation) and 
 `experience_modifier=70` (Wesnoth engine applies this setting for normal multiplayer scenarios, but for some reason it 
 doesn't apply the setting for the second scenarios)
-- code to preserve team colors an village income (otherwise red/blue and village_income=1 are used)
-- side id to make sure that players and their faction/leader selected in the first scenario will be correctly carried to the second scenario
+- code to preserve team colors an village income (otherwise red/blue and `village_income=1` are used)
+- side id to make sure that players and their faction/leader selected in the first scenario will be correctly carried to 
+the second scenario
 
 ### Add-on compatibility
 Make sure to not change unit stats for the existing units, but create a new version of units to not break replays.
-For example, do not modify unit with `id=Footpad Ladder_0_1`. Instead of that, create new unit with `id=Footpad Ladder_0_2`
-and replace `Footpad Ladder_0_1` with `Footpad Ladder_0_2` in the recruitment list. As a result, `Footpad Ladder_0_1`
-won't be available for recruitment, but still available to run old replays recorded when `Footpad Ladder_0_2` 
-was not yet created.
+For example, do not modify unit with `id=Dwarvish Ulfserker Ladder_0_1`. Instead of that, create new unit with 
+`id=Dwarvish Ulfserker Ladder_0_2` and replace `Dwarvish Ulfserker Ladder_0_1` with `id=Dwarvish Ulfserker Ladder_0_2` 
+in the recruitment list. As a result, `id=Dwarvish Ulfserker Ladder_0_1` won't be available for recruitment, but still 
+available to run old replays recorded when `id=Dwarvish Ulfserker Ladder_0_2` was not yet created. Hint: multiple units
+may be defined in a single file, e.g. see `units/dwarves/Ulfserker.cfg` file.
 
-### Reminders
-- Do not forget to update server.pbl description and changelog.txt
-- Do not forget to update add-on version in server.pbl file, addon_min_version and print version inside the `[era]` tag
+### When releasing a new version
+- Make sure that password is set in `_server.pbl` file (`passphrase="..."`)  
+- Increase add-on version in `_server.pbl` file (`version="..."`) and `era.cfg` file (`#define LADDER_ERA_VERSION "..." #enddef`)
+- Update description in `_server.pbl` and `changelog.txt` files
+
+### Wesnoth Markup Language (WML) documentation
+https://wiki.wesnoth.org/Referencewml
