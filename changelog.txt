@@ -1,3 +1,7 @@
+Version 0.1.9
+- Added Competitive Map Pack
+- Minor map updates to Den of Onis and Fallenstar Lake
+
 Version 0.1.8
 - Pikeman and Rogue removed from leader pools
 - Removed dextrous trait from Poacher
