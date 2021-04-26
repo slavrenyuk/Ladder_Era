@@ -1,3 +1,7 @@
+Version 0.1.10
+- Made add-on compatible with older versions
+- All Footpad sprites update
+
 Version 0.1.9
 - Added Competitive Map Pack
 - Minor map updates to Den of Onis and Fallenstar Lake
