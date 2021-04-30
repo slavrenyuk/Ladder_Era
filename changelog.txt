@@ -1,3 +1,6 @@
+Version 0.1.12
+- Added new ranged attack which shot twice to Dwarvish Thunderer line for testing purposes
+
 Version 0.1.11
 - Fixed Footpad animation bug
 
