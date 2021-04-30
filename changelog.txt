@@ -1,6 +1,9 @@
+Version 0.1.11
+- Fixed Footpad animation bug
+
 Version 0.1.10
 - Made add-on compatible with older versions
-- All Footpad sprites update
+- Updated all Footpad sprites
 
 Version 0.1.9
 - Added Competitive Map Pack
@@ -19,10 +22,10 @@ Version 0.1.8
 - Footpad sprite update
 
 Version 0.1.7
-- Reverted Dwarvish Ulfserker and Berserker arcane resistance back to 10% as in the Default Era.
+- Reverted Dwarvish Ulfserker and Berserker arcane resistance back to 10% as in the Default Era
 
 Version 0.1.6
-- Fixed map picker Hornshark Island bug reported by Maboul. Units on the map should depend on player's faction.
+- Fixed map picker Hornshark Island bug. Units on the map should depend on player's faction
 
 Version 0.1.5
 - Removed Elvish Sorceress from the leaders pool
@@ -43,8 +46,8 @@ Version 0.1.1
 - Added feature to the map pickers to configure the pool of maps
 
 Version 0.1.0
-- Added modified versions of Den of Onis, Hamlets, Silverhead Crossing and The Freelands maps.
-- Created map pickers for selecting random map from a pool of approved maps.
+- Added modified versions of Den of Onis, Hamlets, Silverhead Crossing and The Freelands maps
+- Created map pickers for selecting random map from a pool of approved maps
 - Implemented Ladder Era with the next changes comparing to the Default Era:
     -- Leaders
         --- Leaders with 6 movement points receive slow trait (similar to how 4 mp leaders receive quick trait, which is inherited from the Default Era)
@@ -53,7 +56,7 @@ Version 0.1.0
     -- Drakes
         --- Drake Fighter: 30% defense in shallow water
     -- Knalgan Alliance
-        --- Dwarves have 3 traits, hardy trait (always rest heal if poisoned) is mandatory, healthy trait is removed.
+        --- Dwarves have 3 traits, hardy trait (always rest heal if poisoned) is mandatory, healthy trait is removed
         --- Dwarvish Ulfserker: -20% arcane resistance
         --- Poacher: can have dextrous trait
         --- Footpad: melee blade 5-2
