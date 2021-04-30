@@ -1,3 +1,6 @@
+Version 0.1.13
+- Fixed changelog displayed for both players
+
 Version 0.1.12
 - Added new ranged attack which shot twice to Dwarvish Thunderer line for testing purposes
 
