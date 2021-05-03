@@ -1,3 +1,6 @@
+Version 0.1.15
+- Dwarvish Thunderer removed 18-1 ranged attack, 9-2 is left
+
 Version 0.1.14
 - Dwarvish Thunderer cost from 16 to 17
 

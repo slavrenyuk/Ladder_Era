@@ -6,7 +6,7 @@ email="svlavrenyuk@gmail.com"
     topic_id=49964
 [/feedback]
 type="era"
-version="0.1.14"
+version="0.1.15"
 
 description=_"Balanced version of the Default Era for competitive play. Needs play testing to verify the balance changes. May be used only with approved maps. Adds modified versions of Den of Onis, Hamlets, Silverhead Crossing, The Freelands and Fallenstar Lake maps. Provides a map picker for selecting random map from a pool of approved maps.
 Changes comparing to the Default Era:
@@ -20,7 +20,7 @@ Knalgan Alliance
 - Dwarves have 3 traits, hardy trait (always rest heal if poisoned) is mandatory, healthy trait is removed.
 - Footpad: melee blade 5-2
 - Ulfserker: 20 gold
-- Thunderer: additional 9-2 ranged attack for testing
+- Thunderer: ranged attack 9-2
 - Guardsman: ranged attack 6-1
 - Steelclad: 57 hitpoints
 Loyalists
