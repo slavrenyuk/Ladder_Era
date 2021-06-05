@@ -1,3 +1,6 @@
+Version 0.1.16
+- Dwarvish Thunderer back to 18-1 ranged attack and 16 gold
+
 Version 0.1.15
 - Dwarvish Thunderer removed 18-1 ranged attack, 9-2 is left
 
