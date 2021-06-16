@@ -1,3 +1,6 @@
+Version 0.1.17
+- Created Ladder Test Era with Dwarvish Thunderer 9-2 ranged attack and 17 gold
+
 Version 0.1.16
 - Dwarvish Thunderer back to 18-1 ranged attack and 16 gold
 

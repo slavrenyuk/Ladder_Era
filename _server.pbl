@@ -6,9 +6,10 @@ email="svlavrenyuk@gmail.com"
     topic_id=49964
 [/feedback]
 type="era"
-version="0.1.16"
+version="0.1.17"
 
 description=_"Balanced version of the Default Era for competitive play. Needs play testing to verify the balance changes. May be used only with approved maps. Adds modified versions of Den of Onis, Hamlets, Silverhead Crossing, The Freelands and Fallenstar Lake maps. Provides a map picker for selecting random map from a pool of approved maps.
+
 Changes comparing to the Default Era:
 Leaders
 - Leaders with 6 movement points receive slow trait (similar to how 4 mp leaders receive quick trait, which is inherited from the Default Era)
@@ -37,4 +38,8 @@ Undead
 - Vampire bat: no intelligent trait
 - Skeleton Archer: 15 gold
 - Ghost: 19 gold
+
+Test Era changes comparing to the Ladder Era:
+Knalgan Alliance
+- Thunderer: 17 gold, ranged attack 9-2
 "
