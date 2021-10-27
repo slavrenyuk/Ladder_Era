@@ -29,10 +29,10 @@ the second scenario
 
 ### Add-on compatibility
 Make sure to not change unit stats for the existing units, but create a new version of units to not break replays.
-For example, do not modify unit with `id=Dwarvish Ulfserker Ladder_0_1`. Instead of that, create new unit with 
-`id=Dwarvish Ulfserker Ladder_0_2` and replace `Dwarvish Ulfserker Ladder_0_1` with `id=Dwarvish Ulfserker Ladder_0_2` 
-in the recruitment list. As a result, `id=Dwarvish Ulfserker Ladder_0_1` won't be available for recruitment, but still 
-available to run old replays recorded when `id=Dwarvish Ulfserker Ladder_0_2` was not yet created. Hint: multiple units
+For example, do not modify unit with `id=Dwarvish Ulfserker Ladder_1`. Instead of that, create new unit with 
+`id=Dwarvish Ulfserker Ladder_2` and replace `Dwarvish Ulfserker Ladder_1` with `id=Dwarvish Ulfserker Ladder_2` 
+in the recruitment list. As a result, `id=Dwarvish Ulfserker Ladder_1` won't be available for recruitment, but still 
+available to run old replays recorded when `id=Dwarvish Ulfserker Ladder_2` was not yet created. Hint: multiple units
 may be defined in a single file, e.g. see `units/dwarves/Ulfserker.cfg` file.
 
 ### When releasing a new version
