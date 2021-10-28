@@ -6,9 +6,9 @@ email="svlavrenyuk@gmail.com"
     topic_id=49964
 [/feedback]
 type="era"
-version="0.1.17"
+version="1.0.0"
 
-description=_"Balanced version of the Default Era for competitive play. Needs play testing to verify the balance changes. May be used only with approved maps. Adds modified versions of Den of Onis, Hamlets, Silverhead Crossing, The Freelands and Fallenstar Lake maps. Provides a map picker for selecting random map from a pool of approved maps.
+description=_"Balanced version of the Default Era for competitive play. May be used only with approved maps. Adds modified versions of Den of Onis, Hamlets, Silverhead Crossing, The Freelands and Fallenstar Lake maps. Provides a map picker for selecting random map from a pool of approved maps.
 
 Changes comparing to the Default Era:
 Leaders
@@ -17,29 +17,25 @@ Leaders
 - Removed leaders from the manual selection pool that are not present in the random selection pool
 Drakes
 - Drake Fighter: 30% defense in shallow water
+- Drake Burner: -50% cold resistance
 Knalgan Alliance
 - Dwarves have 3 traits, hardy trait (always rest heal if poisoned) is mandatory, healthy trait is removed.
 - Footpad: melee blade 5-2
+- Poacher: 32 hitpoints
 - Ulfserker: 20 gold
 - Thunderer: 16 gold
 - Guardsman: ranged attack 6-1
-- Steelclad: 57 hitpoints
 Loyalists
 - Spearman: ranged attack 5-1
 - Bowman: melee attack 5-2
 - Cavalryman: 18 gold
+- Heavy Infantryman: -10% cold resistance
 Northerners
 - Orcish Archer: ranged pierce attack 5-3
 Rebels
-- Elvish Shaman: no dextrous trait
-- Wose: 0% cold resistance
-- Merman Hunter: +2 hitpoints and 60% defense in deep water
+- Elvish Shaman: no dextrous trait, ranged attack 3-2
+- Merman Hunter: 32 hitpoints, 60% defense in deep water
 Undead
 - Vampire bat: no intelligent trait
 - Skeleton Archer: 15 gold
-- Ghost: 19 gold
-
-Test Era changes comparing to the Ladder Era:
-Knalgan Alliance
-- Thunderer: 17 gold, ranged attack 9-2
 "

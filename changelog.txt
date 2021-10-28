@@ -1,3 +1,13 @@
+Version 1.0.0
+- Release for Wesnoth 1.16
+- Ghost and Wose were changed in Default Era of Wesnoth 1.16 and they became the same as in Ladder Era
+- Ladder Era DOES NOT include Drake Burner, Heavy Infantryman, Elvish Shaman, Merman Hunter and Poacher changes from Default Era 1.16. Ladder Era versions of those units comparing to Default Era:
+    -- Drake Burner: -50% cold resistance
+    -- Heavy Infantryman: -10% cold resistance
+    -- Elvish Shaman: no dextrous trait, ranged attack 3-2
+    -- Merman Hunter: 32 hitpoints, 60% defense in deep water
+    -- Poacher: 32 hitpoints
+
 Version 0.1.17
 - Created Ladder Test Era with Dwarvish Thunderer 9-2 ranged attack and 17 gold
 

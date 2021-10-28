@@ -38,7 +38,7 @@ may be defined in a single file, e.g. see `units/dwarves/Ulfserker.cfg` file.
 ### When releasing a new version
 - Make sure that password is set in `_server.pbl` file (`passphrase="..."`)  
 - Increase add-on version in `_server.pbl` file (`version="..."`) and `era.cfg` file (`#define LADDER_ERA_VERSION "..." #enddef`)
-- Update description in `_server.pbl` and `changelog.txt` files
+- Update description in `_server.pbl`, `summary.txt` and `changelog.txt` files
 
 ### Wesnoth Markup Language (WML) documentation
 https://wiki.wesnoth.org/Referencewml
