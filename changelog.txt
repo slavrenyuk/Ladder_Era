@@ -1,3 +1,6 @@
+Version 1.0.1
+- Created Ladder Test Era
+
 Version 1.0.0
 - Release for Wesnoth 1.16
 - Ghost and Wose were changed in Default Era of Wesnoth 1.16 and they became the same as in Ladder Era

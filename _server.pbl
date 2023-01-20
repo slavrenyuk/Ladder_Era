@@ -6,7 +6,7 @@ email="svlavrenyuk@gmail.com"
     topic_id=49964
 [/feedback]
 type="era"
-version="1.0.0"
+version="1.0.1"
 
 description=_"Balanced version of the Default Era for competitive play. May be used only with approved maps. Adds modified versions of Den of Onis, Hamlets, Silverhead Crossing, The Freelands and Fallenstar Lake maps. Provides a map picker for selecting random map from a pool of approved maps.
 
