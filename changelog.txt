@@ -1,3 +1,6 @@
+Version 1.0.2
+- Updated Ladder Test Era
+
 Version 1.0.1
 - Created Ladder Test Era
 
