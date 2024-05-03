@@ -6,9 +6,9 @@ email="svlavrenyuk@gmail.com"
     topic_id=49964
 [/feedback]
 type="era"
-version="1.0.2"
+version="1.0.3"
 
-description=_"Balanced version of the Default Era for competitive play. May be used only with approved maps. Adds modified versions of Den of Onis, Hamlets, Silverhead Crossing, The Freelands and Fallenstar Lake maps. Provides a map picker for selecting random map from a pool of approved maps.
+description="Balanced version of the Default Era for competitive play. May be used only with approved maps. Adds modified versions of Den of Onis, Hamlets, Silverhead Crossing, The Freelands and Fallenstar Lake maps. Provides a map picker for selecting random map from a pool of approved maps.
 
 Changes comparing to the Default Era:
 Leaders
@@ -28,7 +28,7 @@ Knalgan Alliance
 Loyalists
 - Spearman: ranged attack 5-1
 - Bowman: melee attack 5-2
-- Cavalryman: 18 gold
+- Cavalryman: 18 gold, 30% blade resistance
 - Heavy Infantryman: -10% cold resistance
 Northerners
 - Orcish Archer: ranged pierce attack 5-3

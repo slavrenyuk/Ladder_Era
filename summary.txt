@@ -20,7 +20,7 @@ Knalgan Alliance
 Loyalists
 - Spearman: ranged attack 5-1
 - Bowman: melee attack 5-2
-- Cavalryman: 18 gold
+- Cavalryman: 18 gold, 30% blade resistance
 - Heavy Infantryman: -10% cold resistance
 
 Northerners
