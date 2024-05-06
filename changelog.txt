@@ -1,3 +1,6 @@
+Version 1.0.4
+- Set Horseman and Gryphon Rider cost as in Wesnoth 1.16
+
 Version 1.0.3
 - Release for Wesnoth 1.18
 - Cavalryman 30% blade resistance

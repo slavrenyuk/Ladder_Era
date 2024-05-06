@@ -16,11 +16,13 @@ Knalgan Alliance
 - Ulfserker: 20 gold
 - Thunderer: 16 gold
 - Guardsman: ranged attack 6-1
+- Gryphon Rider: 24 gold
 
 Loyalists
 - Spearman: ranged attack 5-1
 - Bowman: melee attack 5-2
 - Cavalryman: 18 gold, 30% blade resistance
+- Horseman: 23 gold
 - Heavy Infantryman: -10% cold resistance
 
 Northerners
